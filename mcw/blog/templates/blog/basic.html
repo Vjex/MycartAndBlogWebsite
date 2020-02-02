@@ -12,6 +12,10 @@
      <style>
        {% block css %} {% endblock %}
   </style>
+
+<!-- this is javascript sdk of facebook coomentin on website got from faceboof cooment plugin website -->
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/hi_IN/sdk.js#xfbml=1&version=v5.0"></script>
+
   </head>
   <body>
 
@@ -23,7 +27,7 @@
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="/shop">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
@@ -34,7 +38,7 @@
         <a class="nav-link" href="/shop/track">Tracker</a>
       </li>
 
-      <li class="nav-item">
+      <li class="nav-item active">
         <a class="nav-link" href="/blog">Blog</a>
       </li>
 
@@ -44,8 +48,8 @@
 
 
     </ul>
-    <form method='get' action='/shop/search/' class="form-inline my-2 my-lg-0">
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" name="search" id="search">
+    <form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
     </form>
     <button type="button" class="btn btn-secondary mx-2" id="popcart" data-container="body" data-toggle="popover" data-placement="bottom" data-html="true" data-content="Vivamus
@@ -56,7 +60,11 @@ sagittis lacus vel augue laoreet rutrum faucibus.">
 </button>
   </div>
 </nav>
-  {% block body %} {% endblock %}
+  {% block body %}
+
+
+
+   {% endblock %}
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35091e05-97f2-4e06-8d5d-e699332834e1" name="Default Changelist" comment="" />
+    <list default="true" id="35091e05-97f2-4e06-8d5d-e699332834e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mcw/blog/templates/blog/basic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mcw/blog/templates/blog/blogpost.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/blog/templates/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/blog/templates/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/shop/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/shop/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/shop/templates/shop/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/shop/templates/shop/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/shop/templates/shop/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/shop/templates/shop/checkout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/shop/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/shop/templates/shop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/shop/templates/shop/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/shop/templates/shop/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/shop/templates/shop/tracker.html" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/shop/templates/shop/tracker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/shop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mcw/shop/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mcw/shop/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +33,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1X6UiftzuhyziyEPgfVIpw9V4mT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
